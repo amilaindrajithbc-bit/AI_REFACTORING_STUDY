@@ -1,0 +1,6 @@
+radon>=6.0.1
+jupyter
+notebook
+matplotlib
+pandas
+openpyxl
